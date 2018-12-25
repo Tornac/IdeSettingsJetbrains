@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/edvin/tornadofx-samples" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tornac@bitbucket.org/tornac/chaos-recipe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Martin\Desktop" />
