@@ -11,8 +11,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="tornac" />
+          <option name="url" value="https://tornac@bitbucket.org/tornac/chaos-recipe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AltBeacon/android-beacon-library.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
