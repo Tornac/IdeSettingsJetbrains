@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="exposed" value="object $TABLE$Table : IntIdTable() {&#10;    // TODO populate this table&#10;    val name = varchar(&quot;name&quot;, 50)&#10;}&#10;&#10;class $TABLE$Dao(id: EntityID&lt;Int&gt;) : IntEntity(id) {&#10;    companion object : IntEntityClass&lt;$TABLE$Dao&gt;($TABLE$Table)&#10;    &#10;    // TODO populate this DAO&#10;    var name by $TABLE$Table.name&#10;}" description="Exposed Table and DAO" toReformat="true" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
