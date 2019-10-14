@@ -38,8 +38,12 @@
           <option name="url" value="http://tlscm.mw.tu-dresden.de" />
           <option name="userName" value="s0475582" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sebastiangoetz/slr-toolkit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Martin\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Martin\Desktop" />
   </component>
 </application>
