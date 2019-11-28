@@ -1,9 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="materia (" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="FRAGMENT" type="PLAIN_TEXT" />
       <mapping pattern="goetia" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="materia (" type="PLAIN_TEXT" />
+      <mapping pattern="CURRENCY" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
