@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="goetia" type="PLAIN_TEXT" />
       <mapping pattern="FRAGMENT" type="PLAIN_TEXT" />
+      <mapping pattern="goetia" type="PLAIN_TEXT" />
       <mapping pattern="MAP" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="materia (" type="PLAIN_TEXT" />
