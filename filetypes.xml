@@ -9,6 +9,7 @@
       <mapping pattern="materia (" type="PLAIN_TEXT" />
       <mapping pattern="CURRENCY" type="PLAIN_TEXT" />
       <mapping pattern="ESSENCE" type="PLAIN_TEXT" />
+      <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
