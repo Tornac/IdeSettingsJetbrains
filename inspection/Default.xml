@@ -18,6 +18,9 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="sys._excepthook" />
+        <option value="sklearn.preprocessing.LabelEncoder" />
+        <option value="sklearn.preprocessing.OneHotEncoder" />
+        <option value="sklearn.preprocessing.OrdinalEncoder" />
       </list>
     </option>
   </inspection_tool>
