@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FRAGMENT" type="PLAIN_TEXT" />
       <mapping pattern="MAP" type="PLAIN_TEXT" />
+      <mapping pattern="notizen für endergebnis" type="PLAIN_TEXT" />
       <mapping pattern="Todo" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="materia (" type="PLAIN_TEXT" />
